@@ -1,0 +1,9 @@
+com\mycompany\fabricaimpressoras\copiadora\Copiadora.class
+com\mycompany\fabricaimpressoras\digitalizadora\Scanner.class
+com\mycompany\fabricaimpressoras\FabricaImpressoras.class
+com\mycompany\fabricaimpressoras\multifuncional\Multifuncional.class
+com\mycompany\fabricaimpressoras\impressora\Desckjet.class
+com\mycompany\fabricaimpressoras\copiadora\Xerox.class
+com\mycompany\fabricaimpressoras\impressora\Impressora.class
+com\mycompany\fabricaimpressoras\digitalizadora\Digitalizadoraa.class
+com\mycompany\fabricaimpressoras\impressora\Laserjet.class
